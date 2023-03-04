@@ -1,0 +1,63 @@
+.h60{
+    height: 60px;
+}
+
+.inputsearch{
+    width:500px;
+    background-color:hsl(0, 0%, 100%);    
+}
+
+input::placeholder { 
+    color:#161515;
+    z-index:200;
+    padding-left:25px;
+  } 
+
+.lupa{
+    margin-right:-20px;
+    z-index:100;
+}
+
+.h600 {  
+    height:600px;
+    background-color:#ffffff;
+}
+
+.fonte_menu{
+    font-size: 15px;
+    margin-left: 3px;
+}
+body{
+    background-color: light-grey !important;
+}
+
+.bordainf{
+    border-bottom: 3px solid #cecece;
+    padding-top: 5px;
+}
+.correcomendações{
+    color: grey;
+}
+.texto{
+    width: 550px;
+}
+
+.contornocontainer{
+    border: 2px solid #cecece;
+    padding:7px;
+    border-radius:10px;
+}
+
+
+.cabecalho{
+    background-color: #fff;
+}
+
+.google_news{
+    width:120px;
+    height:auto;
+}
+
+.artigo{
+    margin-bottom: 20px !important;
+}
